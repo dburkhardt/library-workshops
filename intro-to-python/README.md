@@ -9,7 +9,7 @@ There are two notebooks associated with this class. These notebooks will allow y
 
 Access the main workbook here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CWML/library-workshops/blob/master/intro-to-python/intro-to-python-workbook.ipynb)
 
-Access the exercise workbook here:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/CWML/library-workshops/blob/master/intro-to-python/intro-to-python-exercises-answer-key.ipynb)
+Access the exercise workbook here:  [![Open In Colab](https://colab.research.google.com/github/CWML/library-workshops/blob/master/intro-to-python/intro-to-python-exercises-answer-key.ipynb)
 
 
 ### Installing Python
