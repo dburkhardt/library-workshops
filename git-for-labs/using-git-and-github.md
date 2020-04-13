@@ -1,34 +1,9 @@
-# Command Line Git
+# Using Git and GitHub
 
 Git is a version control system often used by teams to manage project files. Github is a website built around Git on which hundreds of thousands of users manage projects and project files. Incorporating Git and Github into your workflow can save lots of time, can help you show the individuals responsible for different features of your projects, and can give you one of the fundamental skills required for a variety of technical enterprises.
 
 This guide is intended for researchers with some exposure to GitHub. If you're totally new to GitHub, we recommend you try out GitHub's [visual introduction to Git](https://guides.github.com/activities/hello-world/) before continuing with the guide below.
 
-# Installing Dependencies
-
-To get started with Git on the command line, we need to install some system-level dependencies.
-
-#### Installing Dependencies on OSX
-
-To install the required dependencies on OSX, you should first open a terminal. The easiest way to do so is to hold COMMAND and press SPACE BAR, type "terminal" and hit enter.
-
-Inside the terminal, type `git`. If Git is installed you'll get a response like this:
-
-![git response on osx](./assets/git-osx.png)
-
-Otherwise, you should be prompted to install xcode. If you're not prompted, you can run `xcode-select --install` to manually install xcode, which will install git for you.
-
-Once that finishes downloading and installing, you should see the commands displayed in the screenshot above when you run `git`.
-
-#### Installing Dependencies on Windows
-
-If you use Windows, the easiest way to install the required dependencies is to download and install [Git Bash](https://git-scm.com/download/win), a Unix-like terminal for Windows. After clicking the link above, click on the installer and accept all defaults.
-
-Once that installs, you should be able to click on the Windows icon in the lower-left-hand corner of your taskbar, search for "Git Bash", and click on the Git Bash icon:
-
-![git bash in programs](./assets/git-bash.png)
-
-That should bring up a terminal that's fully equipped with Git.
 
 ## Introduction to Git
 
@@ -464,7 +439,3 @@ To delete all merged branches, you can run the following (make sure you undstand
 ```
 git branch --merged | egrep -v "(^\*|master|gh-pages)" | xargs git branch -d
 ```
-
-# Questions? Difficulties?
-
-If you have questions about Git or programming more generally, or would like help with your programming tasks, please feel free to stop by Yale's Digital Humanities Lab in Sterling Memorial Library, 316 during office hours--Tuesdays and Wednesdays 2-4.
