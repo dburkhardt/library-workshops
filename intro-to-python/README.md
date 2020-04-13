@@ -40,4 +40,4 @@ Access the exercise workbook here: [![Open In Colab](https://colab.research.goog
 * [The Python Tutorial](https://docs.python.org/3/tutorial/): This tutorial, which is a part of the python documentation, introduces manhy of Python's most noteworth features, and will give you a good idea of the language's flavor and style. 
 
 
-
+This work is derived from work that is Copyright © Software Carpentry (http://software-carpentry.org/). This lesson is based on the content from this Carpentry lesson [Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/LICENSE.html) (this CWML contains modifications of the original Carpentry content. 
