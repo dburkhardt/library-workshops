@@ -2,17 +2,11 @@
 
 To get started with Git on the command line, we need to install some system-level dependencies.
 
-#### Installing Dependencies on OSX
+#### Installing Dependencies on macOS
 
-To install the required dependencies on OSX, you should first open a terminal. The easiest way to do so is to hold COMMAND and press SPACE BAR, type "terminal" and hit enter.
+You may have Git installed by default if you have a Mac. In order to check this, run `git --version` in your terminal window. (Locate your terminal window in Applications > Utilities > Terminal, or by searching for "Terminal" in the Spotlight search bar).
 
-Inside the terminal, type `git`. If Git is installed you'll get a response like this:
-
-![git response on osx](./assets/git-osx.png)
-
-Otherwise, you should be prompted to install xcode. If you're not prompted, you can run `xcode-select --install` to manually install xcode, which will install git for you.
-
-Once that finishes downloading and installing, you should see the commands displayed in the screenshot above when you run `git`.
+Reference [this installation guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) for more information about installing Git on a Mac). 
 
 #### Installing Dependencies on Windows
 
