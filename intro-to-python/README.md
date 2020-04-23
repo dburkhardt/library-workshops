@@ -36,7 +36,7 @@ Access the exercise workbook here: [![Open In Colab](https://colab.research.goog
 
 ### Webguides, Tutorials, and eBooks for Further Learning
 * [The Hitchhiker's Guide to Python](https://docs.python-guide.org/intro/learning/)
-* [LearnPython.org](learnpython.org)
+* [LearnPython.org](https://learnpython.org)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/): This tutorial, which is a part of the python documentation, introduces manhy of Python's most noteworth features, and will give you a good idea of the language's flavor and style. 
 
 
